@@ -154,7 +154,7 @@ const animeData = [
     studio: "Gainax",
     status: "Completed",
     description: "Teenagers pilot giant mechs to fight monstrous beings called Angels, while dealing with deep psychological trauma.",
-    image: "https://cdn.myanimelist.net/images/anime/1935/127974.jpg"
+    image: "https://myanimelist.net/images/anime/1314/108941.jpg"
   },
   {
     title: "My Hero Academia",
