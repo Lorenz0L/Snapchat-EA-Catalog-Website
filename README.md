@@ -6,6 +6,8 @@
 
 A catalog website built for the Snap Engineering Academy Stage 2 project assessment.
 
+![Preview](assets/preview.png)
+
 ## About
 AniVault is a catalog of must-watch anime series. Users can search, filter by genre, and sort by rating or year to explore the collection.
 
