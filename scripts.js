@@ -32,6 +32,7 @@ const animeData = [
     episodes: 87,
     studio: "MAPPA / Wit Studio",
     status: "Completed",
+
     image: "https://cdn.myanimelist.net/images/anime/10/47347.jpg"
   },
   {
@@ -316,7 +317,6 @@ function editCardContent(card, anime) {
   card.querySelector(".card-genre").textContent = anime.genre;
   card.querySelector(".card-year").textContent = anime.year;
   card.querySelector(".card-studio").textContent = anime.studio;
-  card.querySelector(".card-desc").textContent = anime.description;
   card.querySelector(".card-episodes").textContent = anime.episodes + (anime.episodes === 1 ? " episode" : " eps");
 
   const statusEl = card.querySelector(".card-status");
